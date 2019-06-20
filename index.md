@@ -6,7 +6,7 @@ title: Summer 2019 Python Tuesdays  - UCSB Software Carpentry
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <div class="container">
 
-# Summer 2019 Python  - UCSB Software Carpentry
+# Summer 2019 Python Tuesdays - UCSB Software Carpentry
 
 Both [Tuesday](https://ucsbcarpentry.github.io/2019-summer-tuesday/) and [Thursday](https://ucsbcarpentry.github.io/2019-summer-thursday/) sections are now full. To sign up for the waitlist click the button below.
 
