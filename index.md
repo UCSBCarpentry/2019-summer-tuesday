@@ -52,8 +52,6 @@ UCSB Library
 
   - Ian Lessing
   - Noah Spahn
-  - Sharon Solis
-  - Vania Wang
 
 
 
