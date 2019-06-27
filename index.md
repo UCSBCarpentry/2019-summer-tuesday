@@ -2,15 +2,14 @@
 title: Summer 2019 Python Tuesdays  - UCSB Software Carpentry
 
 ---
-<style> body {font-family: sans-serif;}</style>
+
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <div class="container">
 
 # Summer 2019 Python Tuesdays - UCSB Software Carpentry
 
-Both [Tuesday](https://ucsbcarpentry.github.io/2019-summer-tuesday/) and [Thursday](https://ucsbcarpentry.github.io/2019-summer-thursday/) sections are now full. To sign up for the waitlist click the button below.
+Both [Tuesday](https://ucsbcarpentry.github.io/2019-summer-tuesday/) and [Thursday](https://ucsbcarpentry.github.io/2019-summer-thursday/) sections are now full.
 
-<button type="button">[Waitlist Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeefc5qKvOl-DmUqTR9I5WQkU1_rtvGlXX_3SfAUmIUTNyzQQ/viewform?usp=sf_link)</button>
 
 ### Lessons:
 
@@ -19,17 +18,15 @@ Both [Tuesday](https://ucsbcarpentry.github.io/2019-summer-tuesday/) and [Thursd
 ### Section 1  Tuesdays 9:30 - 11:00 am
 
 ## Where:
+UCSB Library - Room 1312 (with a few exceptions)
 
-UCSB Library
-
-  - Room 1312 (with a few exceptions)
-
+##### <button>[Pre Workshop Survey](https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=2019-summer-tuesday)</button>
 
 ### Schedule:
 
 | Week | Section 1  - Tuesdays                                      | Lesson(s)                                                      |
 | ---- | ---------------------------------------------------------- | ---------------------------------------------------------------|
-| 1    | Tuesday    June   25 <br> 9:30-11:00 Library Room 1312     | Running and Quitting <br> Variables and Assignments            |
+| 1    | ~~Tuesday    June   25 <br> 9:30-11:00 Library Room 1312~~ | Running and Quitting <br> Variables and Assignments            |
 | 2    | Tuesday    July   2  <br> 9:30-11:00 Library Room 1312     | Data Types and Type Conversion <br> Built-in Functions and Help|
 | 3    | Tuesday    July   9  <br> 9:30-11:00 Library Room 1312     | Libraries                                                      |
 | 4    | Tuesday    July   16 <br> 9:30-11:00 Library Collaboratory | Reading Tabular Data into DataFrames <br> Pandas DataFrames    |
@@ -44,15 +41,14 @@ UCSB Library
 
 ### Etherpad:
 
-| a collaborative document, that we will use in our classes: <button>[Etherpad for the Thursday section](https://pad.carpentries.org/ucsb-summer19-python-thurs)</button>|
+| a collaborative document, that we will use in our classes: <button>[Etherpad for the Tuesday section](https://pad.carpentries.org/ucsb-summer19-python-tues)</button>|
 | ---- |
 
+##### [Post Workshop Survey](https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2019-summer-tuesday)
 
 ### Instructors:
 
-  - Ian Lessing
-  - Noah Spahn
-
-
+  - Ian Lessing (contact via: [Library](https://www.library.ucsb.edu/staff/ian-lessing) or [Github](https://github.com/ilessing)
+  - Noah Spahn (contact via: [email](mailto:noah.spahn@ucsb.edu) or [Github](https://github.com/noah-de) )
 
 </div>
