@@ -27,16 +27,16 @@ UCSB Library - Room 1312 (with a few exceptions)
 | Week | Section 1  - Tuesdays                                      | Lesson(s)                                                      |
 | ---- | ---------------------------------------------------------- | ---------------------------------------------------------------|
 | 1    | ~~Tuesday    June   25 <br> 9:30-11:00 Library Room 1312~~ | Running and Quitting <br> Variables and Assignments            |
-| 2    | Tuesday    July   2  <br> 9:30-11:00 Library Room 1312     | Data Types and Type Conversion <br> Built-in Functions and Help|
-| 3    | Tuesday    July   9  <br> 9:30-11:00 Library Room 1312     | Libraries                                                      |
-| 4    | Tuesday    July   16 <br> 9:30-11:00 Library Collaboratory | Reading Tabular Data into DataFrames <br> Pandas DataFrames    |
-| 5    | Tuesday    July   23 <br> 9:30-11:00 Library Collaboratory | Review                                                         |
-| 6    | Tuesday    July   30 <br> 9:30-11:00 Library Room 1312     | Plotting                                                       |
-| 7    | Tuesday    August 6  <br> 9:30-11:00 Library Collaboratory | Lists                                                          |
-| 8    | Tuesday    August 13 <br> 9:30-11:00 Library Collaboratory | For Loops <br> Looping over Data Sets                          |
-| 9    | Tuesday    August 20 <br> 9:30-11:00 Library Room 1312     | Writing Functions <br> Variable Scope                          |
-| 10   | Tuesday    August 27 <br> 9:30-11:00 Library Room 1312     | Review                                                         |
-| 11   | Tuesday September 3  <br> 9:30-11:00 Library Room 1312     | Conditionals <br> Programming Style                            |
+| 2    | ~~Tuesday    July   2  <br> 9:30-11:00 Library Room 1312~~ | Data Types and Type Conversion <br> Built-in Functions and Help|
+| 3    | Tuesday    July   9  <br> 9:30-11:00 Library Room 1312     | Libraries     <br> Reading Tabular Data into DataFrames        |
+| 4    | Tuesday    July   16 <br> 9:30-11:00 Library Collaboratory | Pandas DataFrames                                              |
+| 5    | Tuesday    July   23 <br> 9:30-11:00 Library Collaboratory | Plotting <br> Lists                                            |
+| 6    | Tuesday    July   30 <br> 9:30-11:00 Library Room 1312     | Review Weeks 1-5                                               |
+| 7    | Tuesday    August 6  <br> 9:30-11:00 Library Collaboratory | For Loops <br> Looping over Data Sets                          |
+| 8    | Tuesday    August 13 <br> 9:30-11:00 Library Collaboratory | Writing Functions <br> Variable Scope                          |
+| 9    | Tuesday    August 20 <br> 9:30-11:00 Library Room 1312     | Conditionals <br> Programming Style                            |
+| 10   | Tuesday    August 27 <br> 9:30-11:00 Library Room 1312     | Review  weeks 6 -6                                             |
+| 11   | Tuesday September 3  <br> 9:30-11:00 Library Room 1312     | TBD
 | 12   | Tuesday September 10 <br> 9:30-11:00 Library Room 1312     | Wrap-Up                                                        |
 
 ### Etherpad:
